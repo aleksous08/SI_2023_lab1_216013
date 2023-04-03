@@ -1,0 +1,11 @@
+mkdir SI_2023_lab1_216013
+git init - initial commit
+touch - kreiranje na novi datoteki
+vi - edit na files
+git add - dodavanje na promeni
+git commit - zacuvuvanje na repo vo nekoe dadeno vreme
+git log - timeline na se
+git branch - kreiranje na granka
+git checkout - navigacija pomegju granki
+git merge - spojuvanje na granki
+git rebase - se voveduvaat smeni od edna granka vo druga
